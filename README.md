@@ -1,4 +1,5 @@
 ﻿# Blue team-study
+![Cybersecurity Monitoring Center](path/to/cybersecurity-monitoring-center.jpg)
 
 ## Description:
 Blue Teaming is a comprehensive course designed to equip participants with the essential skills and knowledge required for effective defense against cyber threats. Through a series of modules, participants will delve into incident response strategies, security operations fundamentals, open-source tools, SIEM deployment, threat intelligence, digital forensics, and more. The course emphasizes practical, hands-on learning to ensure participants gain real-world experience in blue team operations.
