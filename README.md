@@ -1,6 +1,15 @@
 ﻿# Blue team-study
 
+#Target Audience
 
+This course is ideal for:
+
+-[] Cybersecurity professionals interested in enhancing their defensive capabilities.
+-[] IT professionals responsible for network security and incident response.
+-[] Security analysts seeking to broaden their skill set in blue team operations.
+-[] Students or individuals looking to pursue a career in cybersecurity with a focus on defensive strategies.
+
+## Modules
 ### Module 1: Incident Response and Security Operations Fundamentals
 ### Module 2: Top 20 Open-Source Tools for Blue Teamers
 ### Module 3: Deploying Your Elastic Stack (ELK) SIEM
