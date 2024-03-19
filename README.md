@@ -2,7 +2,7 @@
 
 ## Description:
 
-#Target Audience
+# Target Audience
 
 ## What You'll Learn: This course is ideal for:
 
@@ -16,19 +16,19 @@
 - [ ] Module 2: Top 20 Open-Source Tools for Blue Teamers
 - [ ] Module 3: Deploying Your Elastic Stack (ELK) SIEM
 - [ ] Module 4: Getting Started with Microsoft Azure Sentinel (Cloud-Native SIEM and SOAR)
-- [ ]Module 5: Hands-on Wazuh Host-based Intrusion Detection System (HIDS) Deployment
+- [ ] Module 5: Hands-on Wazuh Host-based Intrusion Detection System (HIDS) Deployment
 - [ ] Module 6: Threat Intelligence Fundamentals
-- [ ]Module 7: Installing and Using The Hive Project in Incident Management
+- [ ] Module 7: Installing and Using The Hive Project in Incident Management
 - [ ] Module 8: Incident Response and Threat Hunting with OSQuery and Kolide Fleet
 - [ ] Module 9: Enhancing Reconnaissance Assessments with the MITRE ATT&CK PRE-ATT&CK Framework
 - [ ] Module 10: Open Source Intelligence (OSINT) with SpiderFoot
 - [ ] Module 11: OSINT with Shodan
 - [ ] Module 12: Defending Against Advanced Persistent Threats with MITRE ATT&CK
-- [ ]Module 13: Hands-on Malicious Traffic Analysis with Wireshark
+- [ ] odule 13: Hands-on Malicious Traffic Analysis with Wireshark
 - [ ] Module 14: Digital Forensics Fundamentals
 - [ ] Module 15: Static Malware Analysis with Radare2
 - [ ] Module 16: Detecting Malware with Yara Rules
-- [ ]Module 17: Getting Started with IDA Pro
+- [ ] Module 17: Getting Started with IDA Pro
 - [ ] Module 18: Getting Started with Reverse Engineering using Ghidra
 - [ ] Module 19: Performing Memory Analysis
 - [ ] Module 20: Red Teaming Attack Simulation with "Atomic Red Team"
