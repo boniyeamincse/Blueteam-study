@@ -1,0 +1,1 @@
+# Module 4 - Getting started using Microsoft Azure Sentinel (Cloud-Native SIEM and SOAR)
